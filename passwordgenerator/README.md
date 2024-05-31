@@ -12,7 +12,7 @@ This is a simple web application built with React that generates random password
 
 - React
 - JavaScript
-- CSS
+- Tailwind
 
 ## Getting Started
 
