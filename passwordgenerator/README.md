@@ -32,6 +32,7 @@ To run this project locally, follow these steps:
 4. Click the "Copy to Clipboard" button to copy the generated password.
 
 ## Demo
+![pg](https://github.com/VishalOjhaa/react-projects/assets/74894133/508bfddc-c07a-4f0d-a1eb-b61e21886b13)
 
 
 
